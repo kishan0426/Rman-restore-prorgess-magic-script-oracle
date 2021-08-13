@@ -1,1 +1,1 @@
-# Rman-restore-prorgess-magic-script-oracle
+# Rman-restore-progress-magic-script-oracle
